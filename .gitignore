@@ -1,0 +1,14 @@
+# YOLO / ML outputs
+runs/
+weights/
+*.pt
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Python cache
+__pycache__/
+*.pyc
+

@@ -1,0 +1,20 @@
+
+train: images/train
+val: images/val
+# test: /home/prince/Desktop/SkyLark/Helmet/test/images
+
+nc: 2
+names: 
+  - helmet
+  - motorcycle
+
+
+
+
+# roboflow:
+#   workspace: bike-helmets
+#   project: bike-helmet-detection-2vdjo
+#   version: 1
+#   license: Public Domain
+#   url: https://universe.roboflow.com/bike-helmets/bike-helmet-detection-2vdjo/dataset/1
+
